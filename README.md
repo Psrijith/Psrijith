@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Psrijith&label=Profile%20views&color=0e75b6&style=flat" alt="Psrijith" /> </p>
 
 - 🌱 I’m currently exploring **AI and Machine Learning**
+- ▶️ [Check out my YouTube channel](https://www.youtube.com/@anonymoustrolls7952)
 - 📊 [Check out my portfolio](https://saisatya420420.wixstudio.io/my-site-3) 
 - 💬 Ask me about **DSA, C++, Java, Python, and React**  
-  
 - 📫 How to reach me **peddireddysrijith@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
